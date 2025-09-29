@@ -16,6 +16,7 @@ This repository contains header-only implementations of fundamental C++ containe
 ### Currently Implemented
 
 - **`stack/`** - Dynamic stack with random access iterators
+- **`list/`** - Doubly-linked list with efficient insertion and deletion anywhere, but no random access.
 - **`vector/`** - Dynamic array with contiguous memory layout  
 - **`deque/`** - Double-ended queue with efficient front/back operations
 
